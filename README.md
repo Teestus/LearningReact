@@ -5,7 +5,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/Teestus/LearningReact.git
-> cd ReduxSimpleStarter
+> enter in console the folder you cloned project to
 > npm install
 > npm start
 ```
